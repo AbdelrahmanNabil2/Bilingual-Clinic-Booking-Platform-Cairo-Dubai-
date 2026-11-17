@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "siteName": "Clinic Name",
+    "tagline": "Considered care, close to home",
+    "defaultTitle": "Clinic Name — Cairo & Dubai",
+    "defaultDescription": "Clinic Name provides attentive, patient-first medical care across two locations: Cairo and Dubai."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "doctors": "Our Doctors",
+    "locations": "Locations",
+    "testimonials": "Patient Stories",
+    "news": "News",
+    "booking": "Book Appointment",
+    "contact": "Contact",
+    "bookVisit": "Book Appointment"
+  },
+  "home": {
+    "heroEyebrow": "Two cities, one standard of care",
+    "heroTitle": "Care that travels well between Cairo and Dubai",
+    "heroSubtitle": "Clinic Name brings the same attentive, evidence-based care to patients in Egypt and the UAE — one record, one standard, two homes.",
+    "heroCtaPrimary": "Get in Touch",
+    "heroCtaSecondary": "Explore Services",
+    "citiesLabel": "Currently seeing patients in",
+    "introTitle": "A clinic built around the patient, not the specialty",
+    "introBody": "Whatever brings you in, our approach stays the same: unhurried consultations, clear explanations, and a care plan you actually understand before you leave the room.",
+    "servicesTitle": "How we can help",
+    "servicesSubtitle": "A general overview of what to expect — details are refined as our specialty focus is finalized.",
+    "whyTitle": "Why patients choose us",
+    "whyItems": [
+      {
+        "title": "Unhurried appointments",
+        "body": "Time to ask questions, in Arabic or English, without feeling rushed."
+      },
+      {
+        "title": "One patient record",
+        "body": "Your history travels with you between our Cairo and Dubai locations."
+      },
+      {
+        "title": "Clear next steps",
+        "body": "Every visit ends with a plain-language plan, not just a prescription."
+      }
+    ],
+    "locationsTitle": "Visit us",
+    "testimonialsTitle": "What patients tell us",
+    "ctaBannerTitle": "Have a question before your first visit?",
+    "ctaBannerBody": "Reach out and our team will get back to you within one business day.",
+    "ctaBannerButton": "Contact Us"
+  },
+  "about": {
+    "title": "About Clinic Name",
+    "intro": "Clinic Name was founded to close the gap between two cities we call home. Patients living between Cairo and Dubai told us the same thing: they wanted one clinic they could trust in both places, not two separate experiences.",
+    "missionTitle": "Our approach",
+    "missionBody": "We believe good care starts with being heard. Every consultation is built around listening first, explaining clearly, and agreeing on next steps together — in whichever language you're most comfortable in.",
+    "valuesTitle": "What we stand for",
+    "values": [
+      {
+        "title": "Clarity",
+        "body": "No jargon left unexplained. You should always know what's happening and why."
+      },
+      {
+        "title": "Continuity",
+        "body": "Your records and history move with you between our locations."
+      },
+      {
+        "title": "Respect for time",
+        "body": "Appointments run on schedule, and consultations aren't rushed."
+      }
+    ]
+  },
+  "services": {
+    "title": "Our Services",
+    "intro": "Our specialty focus is being finalized — this page will be updated with specific services soon. In the meantime, here is a general overview of the kind of care we offer.",
+    "items": [
+      {
+        "title": "Consultations",
+        "body": "Initial and follow-up consultations with a focus on understanding your full history."
+      },
+      {
+        "title": "Diagnostics",
+        "body": "On-site diagnostic support to reach a clear picture quickly."
+      },
+      {
+        "title": "Specialist Care",
+        "body": "Tailored treatment plans, reviewed and adjusted as needed."
+      },
+      {
+        "title": "Follow-up & Care Plans",
+        "body": "Structured follow-ups so nothing falls through the cracks."
+      }
+    ]
+  },
+  "doctors": {
+    "title": "Our Doctors",
+    "intro": "Meet the team. Full profiles will be added as our clinical team is finalized.",
+    "placeholderName": "Dr. Placeholder Name",
+    "placeholderTitle": "Specialty to be confirmed",
+    "placeholderBio": "A short, warm biography will go here — background, areas of interest, and languages spoken.",
+    "placeholderLocation": "Cairo & Dubai",
+    "viewProfile": "View profile",
+    "backToDoctors": "Back to Doctors",
+    "notFound": "Doctor not found."
+  },
+  "locations": {
+    "title": "Our Locations",
+    "intro": "One standard of care, two cities.",
+    "cairo": {
+      "city": "Cairo",
+      "country": "Egypt",
+      "addressLine1": "Street Address, Building No.",
+      "addressLine2": "Neighborhood, Cairo, Egypt",
+      "phone": "+20 2 000 0000",
+      "email": "cairo@clinicname.com",
+      "hours": "Sat–Thu, 10:00 AM – 8:00 PM",
+      "latitude": 30.0444,
+      "longitude": 31.2357
+    },
+    "dubai": {
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "addressLine1": "Street Address, Building No.",
+      "addressLine2": "District, Dubai, UAE",
+      "phone": "+971 4 000 0000",
+      "email": "dubai@clinicname.com",
+      "hours": "Sun–Thu, 9:00 AM – 7:00 PM",
+      "latitude": 25.2048,
+      "longitude": 55.2708
+    },
+    "getDirections": "Get directions",
+    "callLabel": "Call",
+    "emailLabel": "Email",
+    "hoursLabel": "Hours"
+  },
+  "testimonials": {
+    "title": "Patient Stories",
+    "intro": "A few words from people we've cared for.",
+    "items": [
+      {
+        "quote": "Placeholder quote — real patient testimonials will replace this once collected, with consent.",
+        "name": "Patient, Cairo"
+      },
+      {
+        "quote": "Placeholder quote — real patient testimonials will replace this once collected, with consent.",
+        "name": "Patient, Dubai"
+      },
+      {
+        "quote": "Placeholder quote — real patient testimonials will replace this once collected, with consent.",
+        "name": "Patient, Cairo"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "intro": "Questions about a visit, or which location is right for you? Send a message and our team will reply within one business day.",
+    "formName": "Full name",
+    "formEmail": "Email address",
+    "formPhone": "Phone number",
+    "formLocation": "Preferred location",
+    "formLocationCairo": "Cairo",
+    "formLocationDubai": "Dubai",
+    "formLocationEither": "No preference",
+    "formMessage": "Message",
+    "formSubmit": "Send Message",
+    "formSubmitting": "Sending…",
+    "formSuccess": "Thank you — your message has been received. We'll be in touch within one business day.",
+    "formError": "Something went wrong sending your message. Please try again, or reach us directly by phone.",
+    "directTitle": "Prefer to reach us directly?"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "quickLinks": "Quick Links",
+    "getInTouch": "Get in Touch"
+  },
+  "news": {
+    "title": "News",
+    "intro": "Updates and announcements from Clinic Name.",
+    "readMore": "Read more",
+    "empty": "No articles yet — check back soon.",
+    "backToNews": "Back to News"
+  },
+  "booking": {
+    "title": "Book an Appointment",
+    "intro": "Choose a country and location, pick a date, and select an available time. You'll get an email confirmation right away.",
+    "stepCountry": "1. Choose a country",
+    "stepDate": "2. Choose a date",
+    "stepSlot": "3. Choose a time",
+    "stepDetails": "4. Your details",
+    "countryEgypt": "Egypt",
+    "countryUae": "United Arab Emirates",
+    "locationLabel": "Location",
+    "dateLabel": "Date",
+    "checkAvailability": "Check availability",
+    "checking": "Checking…",
+    "noSlots": "No available times for this date — the clinic may be closed, or fully booked. Please try another date.",
+    "selectSlotFirst": "Select a date to see available times.",
+    "formName": "Full name",
+    "formEmail": "Email address",
+    "formPhone": "Phone number",
+    "formNotes": "Anything we should know? (optional)",
+    "formSubmit": "Confirm Booking",
+    "formSubmitting": "Booking…",
+    "formSuccessTitle": "Your appointment is confirmed",
+    "formSuccessBody": "A confirmation email is on its way to you. We look forward to seeing you.",
+    "formError": "Something went wrong while booking. Please try again, or contact us directly.",
+    "slotTakenError": "That time was just booked by someone else — please choose another.",
+    "bookAnother": "Book another appointment",
+    "joinWaitlistPrompt": "Fully booked on this date?",
+    "joinWaitlist": "Join the waitlist",
+    "waitlistSuccess": "You're on the waitlist — we'll email you if a slot opens up.",
+    "manageTitle": "Manage Your Appointment",
+    "manageNotFound": "We couldn't find a booking with that link. It may have expired or already been used.",
+    "manageCurrentTitle": "Your appointment",
+    "manageStatusCancelled": "This appointment has been cancelled.",
+    "manageReschedule": "Reschedule",
+    "manageCancel": "Cancel appointment",
+    "manageCancelConfirm": "Are you sure you want to cancel this appointment?",
+    "manageCancelSuccess": "Your appointment has been cancelled.",
+    "manageRescheduleSuccess": "Your appointment has been rescheduled.",
+    "manageNewDate": "New date",
+    "manageNewTime": "New time",
+    "manageConfirmReschedule": "Confirm new time"
+  },
+  "search": {
+    "placeholder": "Search news and services…",
+    "title": "Search",
+    "newsResults": "News",
+    "serviceResults": "Services",
+    "noResults": "No results found.",
+    "prompt": "Type at least 2 characters to search."
+  },
+  "newsletter": {
+    "title": "Stay updated",
+    "body": "Get occasional news and updates from Clinic Name.",
+    "placeholder": "Your email address",
+    "submit": "Subscribe",
+    "success": "Thanks — you're subscribed!",
+    "error": "Something went wrong. Please try again."
+  },
+  "reviews": {
+    "title": "Share your experience",
+    "intro": "Your review will appear on our site once approved.",
+    "formName": "Your name",
+    "formQuote": "Your review",
+    "formRating": "Rating",
+    "formSubmit": "Submit review",
+    "formSuccess": "Thank you — your review will appear once approved.",
+    "formError": "Something went wrong submitting your review. Please try again."
+  },
+  "legal": {
+    "privacyTitle": "Privacy Policy",
+    "termsTitle": "Terms of Service",
+    "lastUpdated": "Last updated"
+  }
+}
